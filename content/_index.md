@@ -1,6 +1,6 @@
 ---
 title: "Adding watermark to image uploaded to Amazon S3 using AWS Lambda"
-date: "`r Sys.Date()`"
+date: 2024-01-01
 weight: 1
 chapter: false
 ---
