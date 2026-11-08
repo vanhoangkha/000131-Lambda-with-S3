@@ -1,4 +1,4 @@
-# ⚡ Lambda with S3
+# Lambda with S3
 
 Event-driven processing with Lambda triggered by S3 events.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000131-Lambda-with-S3/)**
+**[Start the workshop](https://vanhoangkha.github.io/000131-Lambda-with-S3/)**
 
 ## Prerequisites
 
